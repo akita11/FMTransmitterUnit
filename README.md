@@ -1,8 +1,8 @@
 # FM Transmitter Unit
 
-<img src="https://github.com/akita11/FMTransmitterUnit/blob/main/FMTXUNit1.jpg" width="240px">
+<img src="https://github.com/akita11/FMTransmitterUnit/blob/main/FMTXUnit1.jpg" width="240px">
 
-<img src="https://github.com/akita11/FMTransmitterUnit/blob/main/FMTXUNit2.jpg" width="240px">
+<img src="https://github.com/akita11/FMTransmitterUnit/blob/main/FMTXUnit2.jpg" width="240px">
 
 FMラジオ用のトランスミッタ（ステレオ）です。
 I2Cで送信周波数などを設定できます。
