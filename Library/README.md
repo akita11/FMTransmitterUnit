@@ -138,6 +138,7 @@ my_project/
 ### ソースを書く
 
 PlatformIO では `src/main.cpp` に書きます。`.ino` と違って、先頭に `#include <Arduino.h>` が必要です。
+※M5Stackシリーズで用いる場合、I2Cまわりの関数が異なりますので修正をしてください。M5Unifiedライブラリを使う場合も修正が必要です。
 
 ```cpp
 #include <Arduino.h>
